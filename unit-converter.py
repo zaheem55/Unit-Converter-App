@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("🌍Unit Converter App")
 st.markdown("### Converts Length, Weight And Time Instantly")
-st.write("Welcome! Select a category, enter a value and get the converted result in real-time")
+st.write("Welcome! Select a category, enter a value and get the converted result in real-time by zaheem hassan")
 
 category = st.selectbox("Choose a categoty", ["Length", "Weight", "Time"])
 
